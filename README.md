@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋，I'm qimen
+
+- 🌱 I am a programming enthusiast from China.
+- ⚡ I pursue full stack development.
+- 😄 I like cats
+- 🔭 I like to look up at the starry sky
 
 <!--
 **lvyunqi/lvyunqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
