@@ -8,8 +8,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lvyunqi&show_icons=true&theme=synthwave)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/lvyunqi/count.svg) visitor! Thank You!😄😄
+![](https://github-profile-trophy.vercel.app/?username=lvyunqi)
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/lvyunqi/count.svg) visitor! Thank You!😄😄
 
 <!--
 **lvyunqi/lvyunqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
