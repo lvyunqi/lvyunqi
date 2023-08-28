@@ -10,6 +10,8 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/lvyunqi/count.svg) visitor! Thank You!😄😄
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=lvyunqi&theme=dracula)
+
 <!--
 **lvyunqi/lvyunqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
