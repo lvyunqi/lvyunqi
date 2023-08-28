@@ -8,8 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lvyunqi&show_icons=true&theme=synthwave)
 
-![](https://github-profile-trophy.vercel.app/?username=lvyunqi)
-
 You are my ![Visitor Count](https://profile-counter.glitch.me/lvyunqi/count.svg) visitor! Thank You!😄😄
 
 <!--
