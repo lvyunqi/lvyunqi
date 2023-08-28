@@ -1,4 +1,4 @@
-### Hi there 👋，I'm qimen
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I'm qimen
 
 - 🌱 I am a programming enthusiast from China.
 - ⚡ I pursue full stack development.
@@ -6,7 +6,10 @@
 - 🔭 I like to look up at the starry sky.
 - 📫 How to reach me: mryunqi@qq.com
 
-![](https://github-readme-stats.vercel.app/api?username=lvyunqi&show_icons=true&theme=synthwave)
+<hr/>
+
+|![](https://github-readme-stats.vercel.app/api?username=lvyunqi&show_icons=true&theme=synthwave)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvyunqi&layout=compact&hide_border=true&langs_count=10)|
+|-|-|
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/lvyunqi/count.svg) visitor! Thank You!😄😄
 
