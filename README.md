@@ -2,8 +2,14 @@
 
 - 🌱 I am a programming enthusiast from China.
 - ⚡ I pursue full stack development.
-- 😄 I like cats
-- 🔭 I like to look up at the starry sky
+- 😼 I like cats.
+- 🔭 I like to look up at the starry sky.
+- 📫 How to reach me: mryunqi@qq.com
+
+![](https://github-readme-stats.vercel.app/api?username=lvyunqi&show_icons=true&theme=synthwave)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/lvyunqi/count.svg) visitor! Thank You!😄😄
+
 
 <!--
 **lvyunqi/lvyunqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
