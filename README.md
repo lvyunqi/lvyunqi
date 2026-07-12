@@ -8,13 +8,6 @@
 
 <hr/>
 
-|![](https://github-readme-stats.vercel.app/api?username=lvyunqi&show_icons=true&theme=synthwave)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvyunqi&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/lvyunqi/count.svg) visitor! Thank You!😄😄
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=lvyunqi&theme=dracula)
-
 <!--
 **lvyunqi/lvyunqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
